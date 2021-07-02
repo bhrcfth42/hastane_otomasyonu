@@ -34,4 +34,4 @@ Copyright (C) 2019 Önder<br/>
 Instagram :[Instagram Link](https://www.instagram.com/onderfatihbuhurcu)<br/>
 Telegram  :[Telegram Link](https://t.me/onderfatihbuhurcu)<br/>
 
-Harran Üniversitesi Bilgisayar Mühendisliği Öğrencisiyim 2017 Girişliyim# hastane_otomasyonu
+Harran Üniversitesi Bilgisayar Mühendisliği Öğrencisiyim 2017 Girişliyim
