@@ -1,17 +1,17 @@
-##Web Form Uygulaması Hastane Otomasyonu
+## Web Form Uygulaması Hastane Otomasyonu
 
-##Projenin Amacı
+## Projenin Amacı
 Exe şeklinde olan hastane otomasyonlarının doktor ve çalışanlar için genel her ortamdan ulaşabilecekleri bir uygulama yapmak ve olabildiğince hızlı bir şekilde veri tabanı işlemlerini yapabilmek.
 
-##Proje de Kullanılan Programlar
+## Proje de Kullanılan Programlar
 ASP.NET(Web Form Uygulaması)<br/>
 MongoDB(NoSQL)<br/>
 Web Sayfa Tasarımı için Bootstrap
 
-##Veri Tabanı Hakkında Genel Bilgi
+## Veri Tabanı Hakkında Genel Bilgi
 “Not Only SQL” ortaya çıkmasındaki en büyük sebep internetin hızlanması ile büyümekte olan ve yapısal olmayan internetteki verinin İlişkisel Veritabanı Yönetim Sistemlerinde performanslı bir şekilde işlenememesidir.
 
-##Proje Hakkında Genel Bilgi
+## Proje Hakkında Genel Bilgi
 1-     Yeni hasta kayıtlarının ayrı tutulduğu collectionlar<br/>
 2-     Hastaları servise yatırma özelliği<br/>
 3-     Hastaları servisler arası transferi<br/>
